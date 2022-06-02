@@ -4,7 +4,7 @@
 //
 //  Created by Tianxing Li on 8/4/14.
 //  Copyright 2015 The Trustees Dartmouth College, Permission to use for Non-commercial Research Purposes Only. All Other Rights Reserved.
-//
+// TestEdit
 
 #include "ScreenDetector.h"
 #include "Matrix.h"
